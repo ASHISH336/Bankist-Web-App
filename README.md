@@ -1,6 +1,6 @@
 # Bankist-Web-App
 
-A web app with fetures like login,trasfer money,requesting loan,delete account,and local date and 
+A web app with fetures like login,trasfer money,requesting loan,delete account,and local date and number format
 
 ## Features:-
 
