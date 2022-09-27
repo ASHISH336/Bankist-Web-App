@@ -4,12 +4,12 @@ A web app with fetures like login,trasfer money,requesting loan,delete account,a
 
 ## Features:-
 
-######Login
+###### Login
 
-######Transfer money
+###### Transfer money
 
-######Request Loan
+###### Request Loan
 
-######Delete account
+###### Delete account
 
-######Show all transactions with local format of date and number with  ECMAScript Internationalization API
+###### Show all transactions with local format of date and number with  ECMAScript Internationalization API
